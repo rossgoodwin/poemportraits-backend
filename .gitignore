@@ -1,0 +1,11 @@
+*.txt
+*.pyc
+*.tar.gz
+pages*/
+img/
+env/
+__pycache__/
+pattern/
+zeitgeist_img/
+zeitgeist_poems/
+
